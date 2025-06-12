@@ -8,6 +8,8 @@
     "start": "next start",
     "lint": "next lint"
   },
+
+  
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@netlify/plugin-nextjs": "^5.11.2",
@@ -72,3 +74,4 @@
     "typescript": "5.8.3"
   }
 }
+
